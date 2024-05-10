@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "./static/js/main.c3786054.js",
-    "static/media/v2.png": "./static/media/v2.9e9b534ab8cc18386728.png",
-    "static/media/puppetmaster.png": "./static/media/puppetmaster.d33f654c8fbdd217c215.png",
-    "static/media/flybird.png": "./static/media/flybird.2e84111c44cc3712aced.png",
-    "static/media/videostamp.png": "./static/media/videostamp.bf04e405dfe55d4242fe.png",
-    "index.html": "./index.html",
-    "main.c3786054.js.map": "./static/js/main.c3786054.js.map"
+    "main.js": "/LinPengyue.github.io/static/js/main.b4032454.js",
+    "static/media/v2.png": "/LinPengyue.github.io/static/media/v2.9e9b534ab8cc18386728.png",
+    "static/media/puppetmaster.png": "/LinPengyue.github.io/static/media/puppetmaster.d33f654c8fbdd217c215.png",
+    "static/media/flybird.png": "/LinPengyue.github.io/static/media/flybird.2e84111c44cc3712aced.png",
+    "static/media/videostamp.png": "/LinPengyue.github.io/static/media/videostamp.bf04e405dfe55d4242fe.png",
+    "index.html": "/LinPengyue.github.io/index.html",
+    "main.b4032454.js.map": "/LinPengyue.github.io/static/js/main.b4032454.js.map"
   },
   "entrypoints": [
-    "static/js/main.c3786054.js"
+    "static/js/main.b4032454.js"
   ]
 }
