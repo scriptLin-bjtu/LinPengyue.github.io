@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "./static/js/main.2a6c2600.js",
+    "main.js": "./static/js/main.c3786054.js",
+    "static/media/v2.png": "./static/media/v2.9e9b534ab8cc18386728.png",
+    "static/media/puppetmaster.png": "./static/media/puppetmaster.d33f654c8fbdd217c215.png",
+    "static/media/flybird.png": "./static/media/flybird.2e84111c44cc3712aced.png",
+    "static/media/videostamp.png": "./static/media/videostamp.bf04e405dfe55d4242fe.png",
     "index.html": "./index.html",
-    "main.2a6c2600.js.map": "./static/js/main.2a6c2600.js.map"
+    "main.c3786054.js.map": "./static/js/main.c3786054.js.map"
   },
   "entrypoints": [
-    "static/js/main.2a6c2600.js"
+    "static/js/main.c3786054.js"
   ]
 }
